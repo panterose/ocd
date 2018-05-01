@@ -25,7 +25,7 @@ apply plugin: 'com.palantir.docker'
 group = 'springio'
 
 bootJar {
-    baseName = 'gs-spring-boot-docker'
+    baseName = 'ocd-docker'
     version =  '0.1.0'
 }
 
